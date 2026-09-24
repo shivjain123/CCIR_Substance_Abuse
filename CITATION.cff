@@ -1,0 +1,8 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it with name."
+authors:
+- family-names: Jain
+  given-names: Shiv
+title: STUDYING BEHAVIOUR OF SUBSTANCE ABUSE PATIENTS - An Interactive Study
+version: v1.0.1-paper-zenodo
+date-released: 2026-09-24
